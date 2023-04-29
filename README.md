@@ -9,7 +9,7 @@ This is a mirror of the final release of ArcHUD2, which is the last version that
 ## Installation
 1. Download code (green **Code** button > **Download ZIP**)
 2. Extract to Interface\Addons
-3. Rename the folder to **ArcHUD2** (with a space)
+3. Rename the folder to **ArcHUD2**
 
 (Or just use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/))
 

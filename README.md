@@ -18,7 +18,7 @@ Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).
 2. Extract the ZIP to **<Path\To\WoW Folder>\Interface\Addons**
 3. Rename the extracted folder to `ArcHUD2` (in other words, remove `-master` from the end)
 
-Once you're done, the structure should be **<Path\To\WoW Folder>\Interface\Addons\ArcHUD2\ArcHUD2.toc**
+Once you're done, the folder structure should be **<Path\To\WoW Folder>\Interface\Addons\ArcHUD2\ArcHUD2.toc**
 
 ## Configuration
 

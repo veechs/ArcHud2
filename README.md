@@ -27,7 +27,7 @@ Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).
 4. Move that folder to `[Path\To\WoW]\Interface\Addons`.
 5. Ensure the structure is `Interface\Addons\ArcHUD2\ArcHUD2.toc`.  
    <sup>*These are all **wrong**:*  
-    × `ArcHUD2-main\ArcHUD2.toc`  
+    × `ArcHUD2-master\ArcHUD2.toc`  
     × `ArcHUD2\ArcHUD2\ArcHUD2.toc`  
     × `ArcHUD2\ArcHUD2-master\ArcHUD2.toc`
    </sup>
